@@ -531,4 +531,6 @@ See [LICENSE](LICENSE) for details.
 
 ---
 
+Built by [cartogopher.com](https://cartogopher.com) code intelligence tool.
+
 **Happy Trading!**
