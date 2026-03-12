@@ -1,5 +1,37 @@
 # Prophet Trader
 
+
+THIS IS NOW DEPRECATED, please refer to https://github.com/JakeNesler/OpenProphet?tab=readme-ov-file
+
+OpenProphet is a fully agentic harness running OpenCode. It makes it easier to access remotely via web ui and hearbeat system similar to openclaw. 
+
+This repo still works fine for an mcp, but all updates to the prophet mcp will now be inside of OpenProphet. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **AI-powered autonomous options trading system with MCP integration**
 
 > ⚠️ **WARNING:** This is an experimental AI-powered trading system. Trading options involves significant risk of loss. **I strongly recommend using this for paper trading only.** Do not use real money. The author provides no warranties and assumes no responsibility for financial losses.
